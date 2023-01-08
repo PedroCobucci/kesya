@@ -1,5 +1,38 @@
+.ola{
+  color: #2200fe;
+  text-shadow: -5px 5px 0px #ff0097, -10px 10px 0px #ef7bf8, -15px 15px 0px #b100bd;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+.amor{
+  color: red;
+  text-shadow: rgb(137, 156, 213) 0px 0px 0px, rgb(129, 148, 205) 1px 1px 0px, rgb(120, 139, 196) 2px 2px 0px, rgb(111, 130, 187) 3px 3px 0px, rgb(103, 122, 179) 4px 4px 0px, rgb(94, 113, 170) 5px 5px 0px, rgb(85, 104, 161) 6px 6px 0px, rgb(76, 95, 152) 7px 7px 0px, rgb(68, 87, 144) 8px 8px 0px, rgb(59, 78, 135) 9px 9px 0px, rgb(50, 69, 126) 10px 10px 0px, rgb(42, 61, 118) 11px 11px 0px, rgb(33, 52, 109) 12px 12px 0px, rgb(24, 43, 100) 13px 13px 0px, rgb(15, 34, 91) 14px 14px 0px, rgb(7, 26, 83) 15px 15px 0px, rgb(2, 17, 74) 16px 16px 0px, rgb(11, 8, 65) 17px 17px 0px, rgb(19, 0, 57) 18px 18px 0px, rgb(28, 9, 48) 19px 19px 0px, rgb(37, 18, 39) 20px 20px 0px, rgb(0, 0, 0) 21px 21px 20px, rgba(0, 0, 0, 0.5) 21px 21px 1px, rgba(0, 0, 0, 0.2) 0px 0px 20px, rgba(206, 0, 0, 0) 2px 2px 5px; 
+
+  font-size: 50px;
+  text-transform: uppercase;
+}
+.butaoCarta{
+  width: 95%;
+  height: 42%;
+  position: absolute;
+  top: 30%;
+  color: transparent;
+  left: 2%;
+  background: transparent;
+  border: 0;
+}
 .App {
   text-align: center;
+    /* The image used */
+    background-image: url("./images/mail-love.gif");
+
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .App-logo {
