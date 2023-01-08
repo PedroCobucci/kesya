@@ -1,7 +1,7 @@
 
 import CloseButton from 'react-bootstrap/CloseButton';
 
-function BasicExample() {
+function close() {
   return <CloseButton />;
 }
 
